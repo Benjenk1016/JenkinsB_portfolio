@@ -39,8 +39,7 @@ void multiplyMatrixVector(int matrixSize) {
     std::vector<double> x;
     double start_time, end_time;
 
-    generateMatrixAndVector(matrixSize, matrix, x); // Example size 10x10 matrix and size 10 vector, 
-                                            //the matrix and vector will be passed by reference to avoid copying
+    generateMatrixAndVector(matrixSize, matrix, x); 
 
  
  start_time = MPI_Wtime();
@@ -75,8 +74,7 @@ void mpiParallized(int matrixSize){
     int vectorSize = matrixSize; 
     std::vector<std::vector<double>> matrix;
     std::vector<double> x;
-    generateMatrixAndVector(matrixSize, matrix, x); // Example size 10x10 matrix and size 10 vector, 
-                                               //the matrix and vector will be passed by reference to avoid copying
+    generateMatrixAndVector(matrixSize, matrix, x); 
 
     
     MPI_Comm_size(MPI_COMM_WORLD, &numProcs); 
@@ -182,4 +180,5 @@ int main(){
     MPI_Finalize();
 
     return 0;
+
 }
