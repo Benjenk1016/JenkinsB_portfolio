@@ -1,0 +1,129 @@
+MPI Serial Results:
+Walltime: 1.41227s
+Walltime: 1.77619s
+Walltime: 1.77889s
+Walltime: 1.78538s
+Walltime: 1.42059s
+Walltime: 1.78395s
+Walltime: 1.7828s
+Walltime: 1.66091s
+Walltime: 1.49857s
+Walltime: 1.77874s
+
+
+MPI Parallel Results:
+Processes - 2 Processes
+Walltime - 0.25507s
+Walltime - 0.260298s
+Walltime - 0.259142s
+Walltime - 0.263672s
+Walltime - 0.263592s
+Walltime - 0.266908s
+Walltime - 0.258592s
+Walltime - 0.258488s
+Walltime - 0.263568s
+Walltime - 0.251544s
+
+MPI Parallel Results:
+Processes - 3 Processes
+Walltime - 0.221807s
+Walltime - 0.227817s
+Walltime - 0.229681s
+Walltime - 0.222281s
+Walltime - 0.222486s
+Walltime - 0.223681s
+Walltime - 0.222432s
+Walltime - 0.221056s
+Walltime - 0.223862s
+Walltime - 0.224103s
+
+MPI Parallel Results:
+Processes - 4 Processes
+Walltime - 0.114448s
+Walltime - 0.11437s
+Walltime - 0.12118s
+Walltime - 0.115995s
+Walltime - 0.114977s
+Walltime - 0.115401s
+Walltime - 0.118068s
+Walltime - 0.114718s
+Walltime - 0.113984s
+Walltime - 0.114316s
+
+MPI Parallel Results:
+Processes - 5 Processes
+Walltime - 0.0929488s
+Walltime - 0.0988914s
+Walltime - 0.0955749s
+Walltime - 0.0948355s
+Walltime - 0.0973694s
+Walltime - 0.100543s
+Walltime - 0.0946951s
+Walltime - 0.0947214s
+Walltime - 0.0955134s
+Walltime - 0.0957918s
+
+MPI Parallel Results:
+Processes - 6 Processes
+Walltime - 0.0811855s
+Walltime - 0.0784396s
+Walltime - 0.0770788s
+Walltime - 0.0768973s
+Walltime - 0.0782143s
+Walltime - 0.0791155s
+Walltime - 0.0805425s
+Walltime - 0.0789474s
+Walltime - 0.0764836s
+Walltime - 0.0778548s
+
+MPI Parallel Results:
+Processes - 7 Processes
+Walltime - 0.0669487s
+Walltime - 0.0698904s
+Walltime - 0.0704806s
+Walltime - 0.0702129s
+Walltime - 0.0690197s
+Walltime - 0.0658084s
+Walltime - 0.0689116s
+Walltime - 0.0660773s
+Walltime - 0.0715237s
+Walltime - 0.0692097s
+
+MPI Parallel Results:
+Processes - 8 Processes
+Walltime - 0.0567963s
+Walltime - 0.0572314s
+Walltime - 0.0569036s
+Walltime - 0.0569937s
+Walltime - 0.0574863s
+Walltime - 0.0598784s
+Walltime - 0.0571617s
+Walltime - 0.0572312s
+Walltime - 0.0570772s
+Walltime - 0.0569354s
+
+MPI Parallel Results:
+Processes - 9 Processes
+Walltime - 0.0519373s
+Walltime - 0.0534821s
+Walltime - 0.0515535s
+Walltime - 0.0508278s
+Walltime - 0.0531544s
+Walltime - 0.0500866s
+Walltime - 0.0504609s
+Walltime - 0.0502735s
+Walltime - 0.0514497s
+Walltime - 0.0506736s
+
+MPI Parallel Results:
+Processes - 10 Processes
+Walltime - 0.0498368s
+Walltime - 0.0456222s
+Walltime - 0.0464708s
+Walltime - 0.047271s
+Walltime - 0.045262s
+Walltime - 0.048101s
+Walltime - 0.0453704s
+Walltime - 0.0468382s
+Walltime - 0.0454567s
+Walltime - 0.0478073s
